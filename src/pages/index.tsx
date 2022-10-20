@@ -8,6 +8,7 @@ export default function IndexPage() {
     <div>
       {/* <AsyncHugeA></AsyncHugeA> */}
       <h1 className={styles.title}>Page index</h1>
+      <div>unocss test哈哈哈哈</div>
       <Hello></Hello>
     </div>
   );
